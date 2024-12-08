@@ -7,6 +7,7 @@ int main(){
     printf("e agora bora\n");
     //continuando nova modificação em branch alternativa
     //alterando com a main
+    //alterando com a branch diego
     x+=2;
     return 0;
 }
