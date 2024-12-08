@@ -5,6 +5,7 @@ int main(){
     printf("Iniciando os trabalhos remotos.\n");
     printf("Novo commit com uma branch diferente.\n");
     printf("e agora bora\n");
+    //continuando a modificação em branch alternativa
     x+=2;
     return 0;
 }
