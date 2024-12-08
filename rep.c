@@ -6,6 +6,7 @@ int main(){
     printf("Novo commit com uma branch diferente.\n");
     printf("e agora bora\n");
     //continuando nova modificação em branch alternativa
+    //alterando com a main
     x+=2;
     return 0;
 }
